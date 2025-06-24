@@ -74,6 +74,5 @@ int main() {
 
     string password = generatePassword(length);
     cout << "Generated password: " << password << endl;
-    cout<<"This APK is coded by KishrCreates";
     return 0;
 }
